@@ -1,0 +1,1 @@
+../../../../mob_sharesdk/SDK/ShareSDK/Support/PlatformConnector/GooglePlusConnector.framework/Headers/SSDKGooglePlusControllerStyle.h

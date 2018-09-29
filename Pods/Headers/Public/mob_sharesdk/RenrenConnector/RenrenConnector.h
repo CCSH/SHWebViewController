@@ -1,0 +1,1 @@
+../../../../mob_sharesdk/SDK/ShareSDK/Support/PlatformConnector/RenrenConnector.framework/Headers/RenrenConnector.h

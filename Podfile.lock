@@ -1,0 +1,119 @@
+PODS:
+  - mob_sharesdk (4.1.4):
+    - mob_sharesdk/ShareSDK (= 4.1.4)
+    - MOBFoundation
+  - mob_sharesdk/ShareSDK (4.1.4):
+    - MOBFoundation
+  - mob_sharesdk/ShareSDKPlatforms/AliPaySocial (4.1.4):
+    - mob_sharesdk/ShareSDK
+    - MOBFoundation
+  - mob_sharesdk/ShareSDKPlatforms/Copy (4.1.4):
+    - mob_sharesdk/ShareSDK
+    - MOBFoundation
+  - mob_sharesdk/ShareSDKPlatforms/DingTalk (4.1.4):
+    - mob_sharesdk/ShareSDK
+    - MOBFoundation
+  - mob_sharesdk/ShareSDKPlatforms/Dropbox (4.1.4):
+    - mob_sharesdk/ShareSDK
+    - MOBFoundation
+  - mob_sharesdk/ShareSDKPlatforms/Evernote (4.1.4):
+    - mob_sharesdk/ShareSDK
+    - MOBFoundation
+  - mob_sharesdk/ShareSDKPlatforms/Facebook (4.1.4):
+    - mob_sharesdk/ShareSDK
+    - MOBFoundation
+  - mob_sharesdk/ShareSDKPlatforms/GooglePlus (4.1.4):
+    - mob_sharesdk/ShareSDK
+    - MOBFoundation
+  - mob_sharesdk/ShareSDKPlatforms/Instagram (4.1.4):
+    - mob_sharesdk/ShareSDK
+    - MOBFoundation
+  - mob_sharesdk/ShareSDKPlatforms/Instapaper (4.1.4):
+    - mob_sharesdk/ShareSDK
+    - MOBFoundation
+  - mob_sharesdk/ShareSDKPlatforms/Kakao (4.1.4):
+    - mob_sharesdk/ShareSDK
+    - MOBFoundation
+  - mob_sharesdk/ShareSDKPlatforms/Line (4.1.4):
+    - mob_sharesdk/ShareSDK
+    - MOBFoundation
+  - mob_sharesdk/ShareSDKPlatforms/Mail (4.1.4):
+    - mob_sharesdk/ShareSDK
+    - MOBFoundation
+  - mob_sharesdk/ShareSDKPlatforms/MeiPai (4.1.4):
+    - mob_sharesdk/ShareSDK
+    - MOBFoundation
+  - mob_sharesdk/ShareSDKPlatforms/QQ (4.1.4):
+    - mob_sharesdk/ShareSDK
+    - MOBFoundation
+  - mob_sharesdk/ShareSDKPlatforms/RenRen (4.1.4):
+    - mob_sharesdk/ShareSDK
+    - MOBFoundation
+  - mob_sharesdk/ShareSDKPlatforms/SinaWeibo (4.1.4):
+    - mob_sharesdk/ShareSDK
+    - MOBFoundation
+  - mob_sharesdk/ShareSDKPlatforms/SMS (4.1.4):
+    - mob_sharesdk/ShareSDK
+    - MOBFoundation
+  - mob_sharesdk/ShareSDKPlatforms/Twitter (4.1.4):
+    - mob_sharesdk/ShareSDK
+    - MOBFoundation
+  - mob_sharesdk/ShareSDKPlatforms/WeChat (4.1.4):
+    - mob_sharesdk/ShareSDK
+    - MOBFoundation
+  - mob_sharesdk/ShareSDKPlatforms/WhatsApp (4.1.4):
+    - mob_sharesdk/ShareSDK
+    - MOBFoundation
+  - mob_sharesdk/ShareSDKPlatforms/Yixin (4.1.4):
+    - mob_sharesdk/ShareSDK
+    - MOBFoundation
+  - mob_sharesdk/ShareSDKPlatforms/YouTube (4.1.4):
+    - mob_sharesdk/ShareSDK
+    - MOBFoundation
+  - MOBFoundation (3.1.8)
+  - SHPopMenu (1.0.1)
+  - SHToast (1.0.4)
+
+DEPENDENCIES:
+  - mob_sharesdk
+  - mob_sharesdk/ShareSDKPlatforms/AliPaySocial
+  - mob_sharesdk/ShareSDKPlatforms/Copy
+  - mob_sharesdk/ShareSDKPlatforms/DingTalk
+  - mob_sharesdk/ShareSDKPlatforms/Dropbox
+  - mob_sharesdk/ShareSDKPlatforms/Evernote
+  - mob_sharesdk/ShareSDKPlatforms/Facebook
+  - mob_sharesdk/ShareSDKPlatforms/GooglePlus
+  - mob_sharesdk/ShareSDKPlatforms/Instagram
+  - mob_sharesdk/ShareSDKPlatforms/Instapaper
+  - mob_sharesdk/ShareSDKPlatforms/Kakao
+  - mob_sharesdk/ShareSDKPlatforms/Line
+  - mob_sharesdk/ShareSDKPlatforms/Mail
+  - mob_sharesdk/ShareSDKPlatforms/MeiPai
+  - mob_sharesdk/ShareSDKPlatforms/QQ
+  - mob_sharesdk/ShareSDKPlatforms/RenRen
+  - mob_sharesdk/ShareSDKPlatforms/SinaWeibo
+  - mob_sharesdk/ShareSDKPlatforms/SMS
+  - mob_sharesdk/ShareSDKPlatforms/Twitter
+  - mob_sharesdk/ShareSDKPlatforms/WeChat
+  - mob_sharesdk/ShareSDKPlatforms/WhatsApp
+  - mob_sharesdk/ShareSDKPlatforms/Yixin
+  - mob_sharesdk/ShareSDKPlatforms/YouTube
+  - SHPopMenu
+  - SHToast
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - mob_sharesdk
+    - MOBFoundation
+    - SHPopMenu
+    - SHToast
+
+SPEC CHECKSUMS:
+  mob_sharesdk: 765cc2fd2fac0a6fd7c3e6c2b10d729ad006c608
+  MOBFoundation: 7f1e157be332576e4d45809a03bc733292c6ad8d
+  SHPopMenu: 9ae3af8fc48a37f0459951511323dc004396cffc
+  SHToast: f2865dd3b99dde4ab21537e9db70eb438d2aaaa9
+
+PODFILE CHECKSUM: ccc1e59862f61ae1283046604e64c395639cfc6a
+
+COCOAPODS: 1.5.3
